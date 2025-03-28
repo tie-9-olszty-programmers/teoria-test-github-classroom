@@ -19,3 +19,14 @@ public static class MathHelper
         return x * x;
     }
 }
+
+
+
+W `README.md` głównym zrobisz spis treści z linkami:
+
+```markdown
+# 📚 Kurs C#
+
+- [01: Klasy statyczne](./01-klasy/README.md)
+- [02: Dziedziczenie](./02-dziedziczenie/README.md)
+- [03: Interfejsy](./03-interfejsy/README.md)
